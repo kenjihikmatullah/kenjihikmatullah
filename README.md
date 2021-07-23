@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my Github profile! 👋
+
+
 
 <!--
 **kenjihikmatullah/kenjihikmatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Kenji**. I am a passionate **software developer** who want to spread ***benefits*** through software. I am developing backend, frontend, and mobile apps. My current favorite tech stack are Laravel, React with TypeScript, and Flutter. Sometimes I deploy my personal projects using Nginx and Docker.
+
+🌱 I’m currently learning DevOps Engineering
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjihikmatullah&show_icons=true&theme=dark&count_private=true&hide=contribs,prs,issues)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjihikmatullah)](https://github.com/anuraghazra/github-readme-stats) -->
