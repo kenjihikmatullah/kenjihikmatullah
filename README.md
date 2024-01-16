@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Kenji**. I am a passionate **software developer** who want to spread ***benefits*** through software. I am developing backend, frontend, and mobile apps. My current favorite tech stack are Laravel, React with TypeScript, and Flutter. Sometimes I deploy my personal projects using Nginx and Docker.
-
-🌱 I’m currently learning DevOps Engineering
+I am **Kenji**, a professional software engineer focusing on back-end. I turn business requirements into clean and robust code. I write great test which is automated stably.  I am a fast learner both in business and technical side. My goal is to spread benefits through software.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjihikmatullah&show_icons=true&theme=dark&count_private=true&hide=contribs,prs,issues)
 
