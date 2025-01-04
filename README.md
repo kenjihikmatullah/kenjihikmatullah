@@ -1,4 +1,4 @@
-### Hi there, welcome to my Github profile! 👋
+### Hi there! 👋
 
 
 
@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Kenji**, a professional software engineer focusing on back-end. I turn business requirements into clean and robust code. I write great test which is automated stably.  I am a fast learner both in business and technical side. My goal is to spread benefits through software.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjihikmatullah&show_icons=true&theme=dark&count_private=true&hide=contribs,prs,issues)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjihikmatullah)](https://github.com/anuraghazra/github-readme-stats) -->
+I am Kenji, a seasoned software engineer with over 5 years of experience. Passionate about clean code, test-driven development, and system design. Committed to driving global impact through innovative software.
